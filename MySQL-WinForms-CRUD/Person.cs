@@ -7,4 +7,12 @@ public class Person
     public string Name { get; set; }
 
     public bool Vote { get; set; }
+
+    public string FullInfo
+    {
+        get
+        {
+            return $"{id} {Name} {Vote}";
+        }
+    }
 }
