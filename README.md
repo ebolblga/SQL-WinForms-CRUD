@@ -1,4 +1,4 @@
-# SSMS-WinForms-CRUD
+# SQL-WinForms-CRUD
 ## Simple program on C# Windows Forms App (.NET 6.0 Framework) that does CRUD (Create Read Update Delete) on SQL Server database.
 To run this you will need:
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) **2022**
