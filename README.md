@@ -17,6 +17,8 @@ Data types:
 Select Top 1000 Rows:  
 ![image](https://user-images.githubusercontent.com/82185066/194979022-5da20001-088c-460c-bb96-e4605b91bd9c.png)
 
+Note: this code in theory may be used for SQL injection, to fix it change DataAccess.cs to use stored procedures instead of direct sql queries.
+
 ## Dependencies
 [Dapper](https://www.nuget.org/packages/Dapper/) v1.50.2 by Sam Saffron, Marc Gravell and Nick Craver
 
